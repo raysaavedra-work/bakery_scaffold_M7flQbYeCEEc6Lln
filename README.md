@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-NO%20COMMIT-blue.svg)](https://github.com/raysaavedra-work/bakery_scaffold_M7flQbYeCEEc6Lln)
+[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%20381fd1b835bf3ef991f04524cb03488ae706d001-yellow.svg)](https://github.com/raysaavedra-work/bakery_scaffold_M7flQbYeCEEc6Lln/commit/381fd1b835bf3ef991f04524cb03488ae706d001)
+
 
 # Status1
 
